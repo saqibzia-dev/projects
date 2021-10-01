@@ -1,0 +1,4 @@
+model,best_score,best_params
+svm,0.8925396825396825,"{'svc__C': 1, 'svc__kernel': 'linear'}"
+random_forest,0.7742857142857142,{'randomforestclassifier__n_estimators': 100}
+logistic_regression,0.8982539682539681,{'logisticregression__C': 1}
